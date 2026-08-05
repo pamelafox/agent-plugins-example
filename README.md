@@ -1,4 +1,4 @@
-# Agent Plugin Example
+# Agent Plugins Example
 
 A copyable reference package for the [Agent Plugins Specification v1.0.0](https://agent-plugins.org/specification).
 
@@ -9,7 +9,7 @@ Agent Plugins v1.0.0 is currently a Working Draft. Pin the schema version and re
 ## Layout
 
 ```text
-agent-plugin-example/
+agent-plugins-example/
 ├── plugin.json                         # Required portable manifest
 ├── skills/                             # Portable Agent Skills
 │   └── migrate-agent-plugin/
