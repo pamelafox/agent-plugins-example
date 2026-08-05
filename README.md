@@ -4,8 +4,6 @@ A copyable reference package for the [Agent Plugins Specification v1.0.0](https:
 
 This repository demonstrates the portable core and includes an Agent Skill that helps migrate existing plugins from client-specific formats. It is a reference example, not a substitute for the normative specification; if they differ, the specification wins.
 
-Agent Plugins v1.0.0 is currently a Working Draft. Pin the schema version and review the specification before publishing production packages.
-
 ## Layout
 
 ```text
