@@ -12,7 +12,7 @@ Convert an existing plugin to the Agent Plugins v1 portable core without prematu
 
 ## Source of truth
 
-Use the current [Agent Plugins specification](https://agent-plugins.org/specification) as the normative source. Agent Plugins v1.0.0 is a Working Draft, so confirm the schema version before changing a production plugin.
+Use the current [Agent Plugins specification](https://agent-plugins.org/specification) as the normative source.
 
 Read these references before editing:
 
