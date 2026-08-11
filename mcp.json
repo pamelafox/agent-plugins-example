@@ -3,7 +3,7 @@
   "mcpServers": {
     "microsoft-learn": {
       "type": "streamable-http",
-      "url": "https://learn.microsoft.com/en-us/training/support/mcp"
+      "url": "https://learn.microsoft.com/api/mcp"
     }
   }
 }
